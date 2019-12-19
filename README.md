@@ -1,5 +1,5 @@
 # game-of-life
-Coding challenge I took to create this simulation based on "Game of Life" rules in Java
+Coding challenge for a simulation based on "Game of Life" rules in Java
 
 1. Any live cell with fewer than two live neighbors dies, as if by under population.
 2. Any live cell with two or three live neighbors lives on to the next generation.
